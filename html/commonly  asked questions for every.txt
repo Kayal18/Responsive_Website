@@ -1,0 +1,94 @@
+commonly  asked questions for everyone  in today's mock interview:
+
+1.How to declare pointer?
+2.call by referrence,call by value
+3.Diff between Structure and Union
+4.Diff between Procedural and object oriented
+5.Types of pointer with real time example?
+6.What is Dangling Pointer
+7.Diff between malloc and calloc in c
+8.what throw,throws,try,catch
+9.Diff between Exception and error
+10.can we override private or static method in java?
+11.Without semicolon can we print the words?
+12.explain the compilation of code in java?
+13.what is multithreading in java?
+14.Singleton class in java?
+15.In javascript,DIff between let and var?
+16.What is Data Structure?
+17.Program: bubble sort,palindrome.
+18.oops concept?
+19.Types of exception?
+20.JVM,JRE,JDK
+21.What is bytecode?
+22.Collections is used for?
+23.How memory allocation happen in string in java?
+24.String pool?
+25.JDBC
+26.User defined datatypes in c?
+27.What is static in java?
+28.What is public static void main(String[] args)?
+29.Program:
+Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
+Input: nums = [3,0,1]
+Output: 2
+Explanation: n = 3 since there are 3 numbers, so all numbers are in the range [0,3]. 2 is the missing number in the range since it does not appear in nums.
+30.Program:
+Input: s1=Grab s2=brag
+output:Yes
+explanation:if the length and letters in the two strings are equal means Yes orelse No.
+31.Wrapper class,autoboxing,unboxing?
+32.Super class?
+33.Diff between primitive and non primitive data types?
+34. Compare abstract class and interface?
+35.Strings are mutable or immutable? if immutable means why?
+36.Diff between string and stringbuffer?
+37.Diff between this keyword and this()?
+38.Purpose of new keyword?
+39.What is getc(), getchar(), getch() and getche()?
+40.What will the expression 1.0 / 0.0 return? Will it throw an exception or any compile-time errors?
+41.How do you create a custome exception?
+42.program: Find the frequency of duplicate number in array?
+43.Create a login page?
+44.Diff between stack and queue?
+45.Rollback,drop,delete,truncate in sql?
+46.Write a logic for insert the elements at begginning in singly linked list?
+47.Primary key,foreign key?
+48.What is deadlock?
+49.Union and Unionall in sql?
+50.What is c,java,react,javascript,typescript?
+51.Features of react?
+52.Diff between elements and component?
+53.State in react?
+54.Diff between angular js and angular?
+55.Diff meand IDE and Android studio?
+56.Diff bettween SQL and Mysql?
+57.Program to sort an array and remove largest number using Java?
+58.Why should you be careful about String concatenation(+) operator in loops?
+59.What is constructor and its types?
+60. What is database,data intagritiy?
+61.Types of join and explain breifly?
+62.What is concurrent?
+63.What is ml And its types?
+64.What is random forest algorithm,SVM?
+65.Diff between AI,Ml,DL?
+66.What is over fitting and underfitting?
+67.Why we move into deep learning?
+68.What is LLM?
+69.What is taskdriven?
+70.String methods in java?
+71.Coupling in java?
+72.Diff between final and finally?
+73.What is  garbage collection?
+74. Diff between Serialization and Deerialization?
+75.What is tokenizing?
+76.Diff between arraylist and linked list?
+77.Find the duplicate elements in array?
+78.What is treemap?
+79.What is best case,worst case complexity?
+80.What is binary tree?
+81.Puzzle:
+You are provided with 8 identical balls and a measuring instrument. 7 of the eight balls are equal in weight and one of the eight given balls is defective and weighs less. The task is to find the defective ball in exactly two measurements.
+Solution for this puzzle:https://www.geeksforgeeks.org/puzzle-8-balls-problem/
+82.What is generics and enum?
+83.What is lambda?
